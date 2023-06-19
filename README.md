@@ -4,4 +4,4 @@
 会使用tree-of-thought
 
 源码位于百度网盘链接: https://pan.baidu.com/s/1asNxdICAlezMXGP518Zn6Q?pwd=8rb6 提取码: 8rb6 <br>
-![structure](./images/image.png)
+![structure](structure.jpg)
